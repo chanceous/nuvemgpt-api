@@ -1,0 +1,31 @@
+Tiendanube: cómo funciona el circuito de venta
+En esta sección vamos a hablar de cómo usar Tiendanube desde el momento en que llega un pedido hasta que tu cliente recibe su paquete. En otras palabras, vamos a ver en detalle cómo gestionar las ventas en tu tienda paso a paso.
+
+Los pedidos que recibas a tu tienda virtual pasan por 3 grandes momentos:
+
+- Recepción del pago de la orden.
+- Envío de la orden.
+- Finalización del proceso de venta.
+- Veamos en profundidad de qué trata cada uno.
+
+1. Recepción del pago de la orden
+Una vez que recibas una compra, vas a poder ver los detalles del pedido en el panel administrador de tu Tiendanube. En el menú que figura a la izquierda, ingresá en Ventas » Lista de ventas.
+
+Según los medios de pago que tengas configurados en tu Tiendanube, la confirmación y recepción tendrá distintos plazos. Por ejemplo, una transacción realizada a través de una pasarela de pagos puede requerir un tiempo de acreditación mayor al de un medio de pago personalizado.
+
+Una vez que veas el pago acreditado, volvé a ingresar a Lista de ventas y hacé clic sobre el botón que dice “Marcar pago como recibido”. Ahora sí podés proceder a gestionar el envío.
+
+2. Envío de la orden
+Esto va a depender de los medios de envío que hayas elegido para tu negocio. Estos pueden ser:
+
+- una empresa de logística con integración con tu Tiendanube,
+- uno personalizado o
+- la opción de retiro por local.
+- Según el caso, vas a poder imprimir las etiquetas con todo el detalle para realizar el envío. Cuando tengas esto listo y antes de despachar la orden, ingresá en Ventas » Lista de ventas para hacer clic sobre el botón “Marcar como empaquetada”.
+
+Y así llegó el momento de proceder al envío propiamente dicho. Recordá que contamos con múltiples soluciones para esto: por ejemplo, podés integrar Envíopack a tu Tiendanube para resolverlo.
+
+3. Finalización del proceso de venta
+Una vez que el proceso de venta haya concluido exitosamente, te recomendamos archivar la orden para mantener organizado tu panel de administración y ver todos los pedidos con claridad.
+
+En Ventas » Lista de ventas seleccioná las órdenes que correspondan y, dentro del menú desplegable, buscá la opción “Archivar órdenes”.

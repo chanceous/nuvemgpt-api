@@ -1,0 +1,81 @@
+-- ¿Cómo funciona Tiendanube? Aprendé a crear y usar una tienda online
+
+¿Escuchaste hablar de Tiendanube? Esta es una plataforma de e-commerce que te permite diseñar un sitio web de ventas profesional sin tener conocimientos de programación ni desarrollo web.
+
+Nuestro propósito es potenciar a todo emprendimiento, PyME y marca para que la historia de su negocio trascienda. En esta línea, diseñamos un producto sencillo e intuitivo para que cualquier persona pueda hacer una tienda online.
+
+¿Y por qué vender a través de una tienda virtual? Sabemos que existen otras alternativas, como redes sociales o marketplaces.
+
+En el artículo de hoy, vamos a enfocarnos en contarte cómo funciona Tiendanube para que puedas crear tu página web de e-commerce y usar la tienda en tu día a día.
+
+¿Cómo funciona Tiendanube?
+Tiendanube es una plataforma que te permite crear una tienda online, es decir, un sitio web de ventas.
+
+Un punto central a la hora de hablar de cómo funciona Tiendanube es que permite armar una tienda en línea de cero sin necesidad de tener conocimientos técnicos. A su vez, si tenés un equipo especializado, contamos con planes donde podés personalizar al 100% su diseño y funcionamiento vía HTML, CSS y JavaScript.
+
+La plataforma está desarrollada con la versatilidad de que pueda ser útil para todo tipo y estadío de negocio.
+Crearla y ponerla en marcha es tan sencillo como publicar un producto en un marketplace, con la ventaja de que vas a tener (mucho) más margen para crear y potenciar tu marca (no solo un producto), poniéndola como protagonista de la experiencia de compra online.
+
+Además, vender a través de un sitio propio de e-commerce te da la posibilidad de implementar más y mejores acciones de marketing digital que impulsen específicamente a tu negocio.
+
+Entonces, esta plataforma de e-commerce pone a tu disposición la estructura necesaria para que vendas online. Registrarse es muy sencillo: solo necesitás un correo electrónico y podés elegir entre una Tienda Inicial gratuita por tiempo ilimitado o 30 días de prueba para cualquier de nuestros planes pagos, pensado para todo tamaño de negocio.
+
+La idea es que entres en contacto directo con la plataforma, cargues tus productos o servicios con fotos y descripciones atractivas, personalices el diseño de tu tienda y establezcas los medios de pago y envío.
+
+Entonces, ¿para qué sirve tener tu propia tienda online?
+En este punto, vamos a repasar las principales ventajas de tener un sitio web de e-commerce para ofrecer tus productos o servicios. Usar Tiendanube para vender por internet sirve para:
+
+- Disponer de un espacio exclusivo para tu marca, que la ponga en el centro de la atención para permitirle crecer y ser reconocida.
+- Agilizar tareas operativas del día a día como la gestión financiera y logística de cada venta.
+- Reducir la inversión inicial y de mantenimiento en comparación a la venta por medio de un local físico, o bien al contratar un equipo de desarrollo y diseño especializado para la gestión del sitio web.
+- Implementar más o mejores acciones de marketing digital como descuentos, cross selling y up selling, tarjetas de regalo o mailing, entre otras.
+- Automatizar las ventas que se generan a través de las redes sociales.
+- Garantizar la seguridad en las transacciones al ser realizadas a través de pasarelas de pago.
+- Ofrecer múltiples medios de envío con la información de logística clara para el cliente e, incluso, crear tu estrategia de envíos a medida o personalizados.
+- Montar tu negocio sobre una página web profesional, que reúna y exhiba tu catálogo completo con un diseño personalizable y responsivo (adaptado a celulares y otros dispositivos).
+- Contar con un equipo de soporte técnico especializado y a disposición para resolver cualquier duda o inconveniente que pudiera surgir.
+- Tener acceso a estadísticas sobre tu negocio y audiencia.
+- La posibilidad de vender online a cualquier geografía de forma organizada.
+- Tener un local abierto y a disposición las 24 hs. todos los días y sin límites de ventas.
+- Mejorar el tiempo de atención al cliente por múltiples canales al brindar toda la información de tus artículos con sus fotos y descripciones.
+
+¿Ya viste cuántos beneficios conlleva vender con tu propia tienda online? En pocas palabras, los esfuerzos que le dediques a tu emprendimiento van a rendir más y traerte resultados contundentes construyendo un negocio online de esta forma.
+
+Sistemas ERP
+ERP significa Enterprise Resource Planning, es decir, Planificación de Recursos Empresariales. Los sistemas ERP reúnen toda la información central para gestionar un negocio. Esto permite optimizar tiempos y hacer más eficiente la rutina de todos los días.
+
+Una de sus ventajas principales es que permiten conectar diferentes áreas como, por ejemplo, stock, finanzas, logística y marketing, para cruzar datos e incrementar la productividad.
+
+Al usar Tiendanube podés integrar a tu sitio web de ventas los principales ERP del mercado.
+
+Entre las aplicaciones de gestión contamos con:
+
+- Tango
+- Xubio
+- Contabilium
+- DUX Software
+- Dragonfish
+- EcomGestión
+- Ecomm-App
+- Chat online
+Uno de los atractivos más grandes del comercio electrónico es interactuar con una marca de forma inmediata, haciendo consultas de forma virtual y desde cualquier lugar.
+
+Para brindar este servicio de atención al cliente destacado, la estrategia más utilizada es un chatbot integrado a la tienda online.
+
+Desde Tiendanube, ofrecemos aplicaciones de comunicación como las siguientes:
+
+- JivoChat
+- Snappy Commerce
+- Cliengo
+
+Herramientas de marketing
+Si de ventas hablamos, no podemos perder de vista las estrategias de marketing. Para potenciar el alcance y la conversión de tu marca es necesario implementar acciones de difusión y promoción.
+
+Algunas de las aplicaciones de marketing que podés integrar y usar en Tiendanube son:
+
+- TITANPush
+- Doppler Email Marketing
+- Venta Cruzada
+- Flowy
+- Perfit
+- NotificationButton

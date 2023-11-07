@@ -1,0 +1,29 @@
+<?php
+ // Por aca los imports
+$catalog = new TiendaNubeCatalog();
+
+$product1 = new Product("T-shirt", 20.99);
+$product2 = new Product("Pants", 39.99);
+$product3 = new Product("Shoes", 59.99);
+
+$catalog->addProduct($product1);
+$catalog->addProduct($product2);
+$catalog->addProduct($product3);
+
+$productsInCatalog = $catalog->listProducts();
+foreach ($productsInCatalog as $product) {
+    echo "Product: " . $product->getName() . ", Price: $" . $product->getPrice() . "\n";
+}
+
+$totalCatalogPrice = $catalog->calculateTotalPrice();
+echo "Total price of all products in the catalog: $" . $totalCatalogPrice . "\n";
+
+$averagePrice = $catalog->calculateAveragePrice();
+echo "Average price of products in the catalog: $" . $averagePrice . "\n";
+
+$foundProduct = $catalog->findProductByName("Pants");
+if ($foundProduct) {
+    echo "Product found: " . $foundProduct->getName() . ", Price: $" . $foundProduct->getPrice() . "\n";
+} else {
+    echo "Product not found in the catalog.\n";
+}
